@@ -7,7 +7,7 @@ const env = process.env;
 
 const webpackConfig = {
   entry: {
-    main: './src/main.js',
+    main: './src/index.js',
   },
   module: {
     rules: [
